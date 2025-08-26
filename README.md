@@ -5,11 +5,9 @@ This project showcases an advanced Excel dashboard with multiple interactive she
 
 ## 🎬 Project Preview:
 
-<video src="Excel_MultiSheet_Dashboard_Preview_Video.mp4" controls width="480">
-  Your browser does not support the video tag.
-</video>
+[![Excel MultiSheet Dashboard Preview](http://img.youtube.com/vi/jWX7R3WkTKg/0.jpg)](https://youtu.be/jWX7R3WkTKg)
+Or, [Click here to download the preview video](Excel_MultiSheet_Dashboard_Preview_Video.mp4).
 
-Or, [click here to download/view the preview video](Excel_MultiSheet_Dashboard_Preview_Video.mp4).
 
 ## 🎯 Features:
 
