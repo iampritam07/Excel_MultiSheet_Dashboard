@@ -4,8 +4,9 @@
 This project showcases an advanced Excel dashboard with multiple interactive sheets and clickable navigation icons. Users can switch between Dashboard, Product, and Salesman sheets for streamlined analysis. The dashboard uses native Excel features—including linked icons for navigation, slicers for dynamic filtering, and visually appealing charts—to deliver efficient, plug-in-free data exploration.
 
 ## 🎬 Project Preview:
-
+Click to watch the preview video:
 [![Excel MultiSheet Dashboard Preview](http://img.youtube.com/vi/jWX7R3WkTKg/0.jpg)](https://youtu.be/jWX7R3WkTKg)
+
 Or, [Click here to download the preview video](Excel_MultiSheet_Dashboard_Preview_Video.mp4).
 
 
